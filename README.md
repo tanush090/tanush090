@@ -13,11 +13,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tanush090">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub"/>
+  <a href="https://tanush-portfolio-26.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/tanush090/Customer-Churn-Prediction-ML">
-    <img src="https://img.shields.io/badge/Featured%20Project-Customer%20Churn-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Customer Churn Project"/>
+  <a href="https://www.linkedin.com/in/tanush0900/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/tanush_kaurav/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram"/>
+  </a>
+  <a href="mailto:tanushkauravji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email"/>
   </a>
 </p>
 
@@ -87,7 +93,7 @@
 <h3>🧵 Smart Fabric Pilling Detection</h3>
 
 <p>
-  A computer vision project focused on classifying fabric pilling grades from images, with an ongoing exploration of webcam-based image capture and hardware integration.
+  A computer vision project focused on classifying fabric pilling grades from images, with an exploration of webcam-based image capture and hardware integration.
 </p>
 
 **Project focus**
@@ -162,8 +168,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tanush090">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub profile"/>
+  <a href="https://tanush-portfolio-26.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanush0900/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/tanush_kaurav/">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram"/>
+  </a>
+  <a href="mailto:tanushkauravji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Me%20a%20Message-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email"/>
   </a>
 </p>
 
