@@ -1,146 +1,190 @@
+<!-- ================= HEADER ================= -->
 
-<div align="center">
+<h1 align="center">TANUSH KUMAR</h1>
 
-<!-- NEON NAME FRAME -->
-<img src="./assets/neon-name.svg" width="100%" alt="Tanush Kumar — animated neon name frame"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=650&height=45&lines=AI%2FML+Developer+in+Progress;B.Tech+CSE+%7C+Artificial+Intelligence+%26+ML;Building+Real-World+Machine+Learning+Projects;Learning+%7C+Building+%7C+Improving" alt="Animated introduction"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/DEGREE-B.Tech%20CSE%20(AI%20%26%20ML)-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Degree"/>
+  <img src="https://img.shields.io/badge/GRADUATION-2028-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Graduation"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20MACHINE%20LEARNING-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Focus"/>
+</p>
 
-<a href="https://tanush-portfolio-26.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-ff3030?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/tanush0900/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=ff3030"/>
-</a>
-<a href="https://www.instagram.com/tanush_kaurav/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-ff3030?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:tanushkauravji@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=ff3030"/>
-</a>
+<p align="center">
+  <a href="https://tanush-portfolio-26.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanush0900/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/tanush_kaurav/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram"/>
+  </a>
+  <a href="mailto:tanushkauravji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email"/>
+  </a>
+</p>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DEGREE-B.TECH_CSE_AI_%26_ML-ff3030?style=flat-square"/>
-<img src="https://img.shields.io/badge/GRADUATION-2028-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-ff3030?style=flat-square"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanush090&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile views"/>
+</p>
 
 ---
 
-## 🔴 About Me
+<h2 align="center">🔴 About Me</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=600&height=30&lines=Driven+by+curiosity.;Building+with+purpose.;Learning+by+doing." alt="Animated quote"/>
+</p>
 
-*Driven by curiosity. Focused on building.*
+<p align="center">
+  Hi! I'm <b>Tanush Kumar</b>, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at <b>NITRA Technical Campus, Ghaziabad</b>.
+  <br/><br/>
+  I'm interested in machine learning, data analysis, computer vision, and web development. I enjoy applying what I learn through hands-on projects and continuously improving my technical fundamentals.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-111111?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Degree-CSE%20AI%2FML-DC2626?style=flat-square" alt="Degree"/>
+  <img src="https://img.shields.io/badge/Goal-AI%2FML%20Developer-111111?style=flat-square" alt="Career goal"/>
+</p>
 
-Hi! I'm **Tanush Kumar**, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at **NITRA Technical Campus, Ghaziabad**.
-
-I'm interested in machine learning, data analysis, computer vision, and web development. I enjoy turning what I learn into practical projects and continuously improving my technical fundamentals.
-
-## 🧠 What I'm Working On
+### 🔭 What I'm Working On
 
 - 🤖 Learning machine learning algorithms and model evaluation.
 - 📊 Practising Python, data preprocessing, and data analysis.
 - 🧵 Developing a Smart Fabric Pilling Detection project.
 - 🌐 Improving my web development and portfolio projects.
-- 🚀 Building practical projects to strengthen my AI/ML skills.
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,git,github,vscode&theme=dark" alt="Technology skills"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-</div>
+- 🎯 Preparing for internships and future software development opportunities.
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🔴 Featured Project Spotlight</h2>
 
-### 1. Customer Churn Prediction
+<h3>📊 Customer Churn Prediction</h3>
 
-Predicts customer churn using machine learning and a structured preprocessing pipeline.
+<p>
+  A machine learning classification project using the Telco Customer Churn dataset to identify customers who may discontinue their services.
+</p>
 
-- **Tech:** Python, Pandas, Scikit-learn, Logistic Regression
-- **Includes:** Data preprocessing, model evaluation, confusion matrix, and hyperparameter tuning.
+**Project highlights**
+- Data cleaning and preprocessing
+- Numerical scaling and categorical encoding
+- Logistic Regression classification
+- Hyperparameter tuning using GridSearchCV
+- Evaluation using accuracy, precision, recall, F1-score, and confusion matrix
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>
 
-<a href="https://github.com/tanush090/Customer-Churn-Prediction-ML">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-ff3030?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-### 2. Smart Fabric Pilling Detection
-
-A computer vision project focused on classifying fabric pilling grades from images.
-
-- **Tech:** Python, TensorFlow/Keras, computer vision
-- **Goal:** Explore automated fabric quality inspection.
-
-<div align="center">
-
-<a href="https://github.com/tanush090?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=ff3030"/>
-</a>
-
-</div>
+<p>
+  <a href="https://github.com/tanush090/Customer-Churn-Prediction-ML">
+    <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View source code"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+<h3>🧵 Smart Fabric Pilling Detection</h3>
 
-<div align="center">
+<p>
+  A computer vision project focused on classifying fabric pilling grades from images, with an exploration of webcam-based image capture and hardware integration.
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanush090&show_icons=true&theme=transparent&hide_border=true&title_color=ff3030&icon_color=ff3030&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics"/>
+**Project focus**
+- Fabric image dataset preparation
+- Image preprocessing and classification
+- Model training and evaluation
+- Exploring practical image capture and hardware integration
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush090&layout=compact&theme=transparent&hide_border=true&title_color=ff3030&text_color=c9d1d9&bg_color=0d1117" alt="Most used programming languages"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-DC2626?style=flat-square" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=tanush090&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030" alt="GitHub contribution streak"/>
-
-</div>
+<p>
+  <a href="https://github.com/tanush090?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Explore repositories"/>
+  </a>
+</p>
 
 ---
 
-## 🐍 Contribution Journey
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<div align="center">
+<p align="center"><b>Programming & Web Technologies</b></p>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode&theme=dark" alt="Programming and web technology icons"/>
+</p>
 
-</div>
+<p align="center"><b>AI, Data Science & Machine Learning</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+<p align="center">
+  <i>Continuously strengthening my skills through practice, coursework, and projects.</i>
+</p>
 
 ---
 
-## 🤝 Connect & Collaborate
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanush090&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush090&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&hide_border=true" height="165" alt="Top languages"/>
+</p>
 
-I'm interested in connecting with developers, learning from the community, and collaborating on meaningful projects.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanush090&theme=dark&hide_border=true&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" width="75%" alt="GitHub contribution streak"/>
+</p>
 
-<a href="https://tanush-portfolio-26.vercel.app">Portfolio</a> •
-<a href="https://www.linkedin.com/in/tanush0900/">LinkedIn</a> •
-<a href="https://www.instagram.com/tanush_kaurav/">Instagram</a> •
-<a href="mailto:tanushkauravji@gmail.com">Email</a>
+---
 
-<br/><br/>
+<h2 align="center">🐍 Contribution Journey</h2>
 
-<img src="https://komarev.com/ghpvc/?username=tanush090&label=PROFILE%20VIEWS&color=ff3030&style=flat-square" alt="Profile views"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+</p>
 
-**Building. Learning. Improving.**
+---
 
-</div>
+<h2 align="center">📬 Let's Connect & Collaborate</h2>
+
+<p align="center">
+  I'm interested in learning from other developers, exploring practical AI/ML problems, and collaborating on meaningful projects.
+</p>
+
+<p align="center">
+  <a href="https://tanush-portfolio-26.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanush0900/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/tanush_kaurav/">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram"/>
+  </a>
+  <a href="mailto:tanushkauravji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Me%20a%20Message-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Driven by curiosity. Building for impact. Coding the future. 🚀</i>
+</p>
