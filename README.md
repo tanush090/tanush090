@@ -117,26 +117,40 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+## 🛠️ Tech Stack & Skills
 
-<p align="center"><b>Programming & Web Technologies</b></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode&theme=dark" alt="Programming and web technology icons"/>
-</p>
+### Programming Languages
 
-<p align="center"><b>AI, Data Science & Machine Learning</b></p>
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Programming languages"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-</p>
+### Data Science & Machine Learning
 
-<p align="center">
-  <i>Continuously strengthening my skills through practice, coursework, and projects.</i>
-</p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+### Deep Learning & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="Deep learning tools"/>
+
+### Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,react&theme=dark" alt="Development tools"/>
+
+<img src="https://img.shields.io/badge/Jupyter- F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br/>
+
+*Continuously improving through hands-on projects and practice.*
+
+</div>
+
 
 ---
 
