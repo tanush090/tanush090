@@ -133,9 +133,6 @@
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-### Deep Learning & Computer Vision
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="Deep learning tools"/>
 
 ### Tools & Development
 
