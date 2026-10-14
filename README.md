@@ -1,18 +1,10 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">TANUSH KUMAR</h1>
-
-<p align="center">
+<!-- ================= HEADER ================= --><h1 align="center">TANUSH KUMAR</h1><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=650&height=45&lines=AI%2FML+Developer+in+Progress;B.Tech+CSE+%7C+Artificial+Intelligence+%26+ML;Building+Real-World+Machine+Learning+Projects;Learning+%7C+Building+%7C+Improving" alt="Animated introduction"/>
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://img.shields.io/badge/DEGREE-B.Tech%20CSE%20(AI%20%26%20ML)-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Degree"/>
   <img src="https://img.shields.io/badge/GRADUATION-2028-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Graduation"/>
   <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20MACHINE%20LEARNING-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Focus"/>
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="https://tanush-portfolio-26.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/>
   </a>
@@ -25,30 +17,19 @@
   <a href="mailto:tanushkauravji@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email"/>
   </a>
-</p>
+</p>---
 
-
----
-
-<h2 align="center">🔴 About Me</h2>
-
-<p align="center">
+<h2 align="center">🔴 About Me</h2><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=600&height=30&lines=Driven+by+curiosity.;Building+with+purpose.;Learning+by+doing." alt="Animated quote"/>
-</p>
-
-<p align="center">
+</p><p align="center">
   Hi! I'm <b>Tanush Kumar</b>, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at <b>NITRA Technical Campus, Ghaziabad</b>.
   <br/><br/>
   I'm interested in machine learning, data analysis, computer vision, and web development. I enjoy applying what I learn through hands-on projects and continuously improving my technical fundamentals.
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-111111?style=flat-square" alt="Status"/>
   <img src="https://img.shields.io/badge/Degree-CSE%20AI%2FML-DC2626?style=flat-square" alt="Degree"/>
   <img src="https://img.shields.io/badge/Goal-AI%2FML%20Developer-111111?style=flat-square" alt="Career goal"/>
-</p>
-
-### 🔭 What I'm Working On
+</p>🔭 What I'm Working On
 
 - 🤖 Learning machine learning algorithms and model evaluation.
 - 📊 Practising Python, data preprocessing, and data analysis.
@@ -58,15 +39,10 @@
 
 ---
 
-<h2 align="center">🔴 Featured Project Spotlight</h2>
-
-<h3>📊 Customer Churn Prediction</h3>
-
-<p>
+<h2 align="center">🔴 Featured Project Spotlight</h2><h3>📊 Customer Churn Prediction</h3><p>
   A machine learning classification project using the Telco Customer Churn dataset to identify customers who may discontinue their services.
-</p>
+</p>Project highlights
 
-**Project highlights**
 - Data cleaning and preprocessing
 - Numerical scaling and categorical encoding
 - Logistic Regression classification
@@ -77,23 +53,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-<p>
+</p><p>
   <a href="https://github.com/tanush090/Customer-Churn-Prediction-ML">
     <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View source code"/>
   </a>
-</p>
+</p>---
 
----
-
-<h3>🧵 Smart Fabric Pilling Detection</h3>
-
-<p>
+<h3>🧵 Smart Fabric Pilling Detection</h3><p>
   A computer vision project focused on classifying fabric pilling grades from images, with an exploration of webcam-based image capture and hardware integration.
-</p>
+</p>Project focus
 
-**Project focus**
 - Fabric image dataset preparation
 - Image preprocessing and classification
 - Model training and evaluation
@@ -104,95 +73,62 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-DC2626?style=flat-square" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-</p>
-
-<p>
+</p><p>
   <a href="https://github.com/tanush090?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Explore repositories"/>
   </a>
-</p>
+</p>---
 
----
+🛠️ Tech Stack & Skills
 
-## 🛠️ Tech Stack & Skills
+<div align="center">Programming Languages
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Programming languages"/>Data Science & Machine Learning
 
-### Programming Languages
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>Tools & Development
 
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,react&theme=dark" alt="Development tools"/><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/><br/>Continuously improving through hands-on projects and practice.
 
-### Data Science & Machine Learning
+</div>---
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-
-### Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,react&theme=dark" alt="Development tools"/>
-
-<img src="https://img.shields.io/badge/Jupyter- F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<br/>
-
-*Continuously improving through hands-on projects and practice.*
-
-</div>
-
-
----
-
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanush090&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush090&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&hide_border=true" height="165" alt="Top languages"/>
-</p>
-
-<p align="center">
+<h2 align="center">📊 GitHub Analytics & Activity</h2><p align="center">
+  <i>My profile's contribution calendar on GitHub is the source of truth for my contribution activity.</i>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush090&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&hide_border=true&cache_seconds=1800" height="165" alt="Most used languages by repository size"/>
+</p><p align="center">
   <img src="https://streak-stats.demolab.com?user=tanush090&theme=dark&hide_border=true&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" width="75%" alt="GitHub contribution streak"/>
-</p>
+</p><p align="center">
+  <a href="https://github.com/tanush090">
+    <img src="https://img.shields.io/badge/VIEW%20LIVE%20GITHUB%20ACTIVITY-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View live GitHub activity"/>
+  </a>
+</p>---
 
----
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
-<p align="center">
+<h2 align="center">🐍 Contribution Journey</h2><p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-</p>
+</p>---
 
----
-
-<h2 align="center">📬 Let's Connect & Collaborate</h2>
-
-<p align="center">
+<h2 align="center">📬 Let's Connect & Collaborate</h2><p align="center">
   I'm interested in learning from other developers, exploring practical AI/ML problems, and collaborating on meaningful projects.
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="https://tanush-portfolio-26.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/tanush0900/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="https://www.instagram.com/tanush_kaurav/">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram"/>
   </a>
   <a href="mailto:tanushkauravji@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Me%20a%20Message-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
+</p><p align="center">
   <i>Driven by curiosity. Building for impact. Coding the future. 🚀</i>
 </p>
